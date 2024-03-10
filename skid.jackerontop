@@ -14203,8 +14203,8 @@ local NotiFrame = Instance.new("Frame")
 		)
 	end  
 if  game.Players.LocalPlayer.Name == "JayceGuys019" or  game.Players.LocalPlayer.Name == "thanthanh878" then
-DiscordLib:Notification("Thông Báo" , "Chào Bạn, Mình Là Admin Bản Master Hub" , 6 ,11816162894)
-    DiscordLib:Notification("Thông Báo" , "Cảm Ơn Bạn Đã Sử Dụng Master Hub" , 8,11816162894)
+DiscordLib:Notification("Thông Báo" , "Chào Bạn, Mình Là Admin Bản skid Hub" , 6 ,11816162894)
+    DiscordLib:Notification("Thông Báo" , "Cảm Ơn Bạn Đã Sử Dụng skid Hub" , 8,11816162894)
             DiscordLib:Notification("Thông Báo" , "Chúc Bạn Có Nhiều Sức Khỏe" , 9 ,11816162894) 
 DiscordLib:Notification("Thông Báo" , "Năm Mới Vui Vẻ Và Hạnh Phúc" , 13 ,11816162894)
 end
