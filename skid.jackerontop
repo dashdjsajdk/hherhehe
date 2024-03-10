@@ -1,4 +1,4 @@
-print("skid thanh cong ")
+
 
 
 local P = game:GetService("Players")
@@ -13318,7 +13318,7 @@ TextLabel.BackgroundTransparency = 1.000
 TextLabel.Position = UDim2.new(0.787, 0,-0.03, 0)
 TextLabel.Size = UDim2.new(0.258796811, 0, 0.0200803205, 0)
 TextLabel.Font = Enum.Font.SourceSans
-TextLabel.Text = "Master Hub"
+TextLabel.Text = "Skid Hub"
 TextLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
 TextLabel.TextSize = 29.000
 TextLabel.TextTransparency = 0.030
@@ -13772,7 +13772,7 @@ TextLabel.BackgroundTransparency = 1.000
 TextLabel.Position = UDim2.new(0.787, 0,-0.03, 0)
 TextLabel.Size = UDim2.new(0.258796811, 0, 0.0200803205, 0)
 TextLabel.Font = Enum.Font.SourceSans
-TextLabel.Text = "gay Hub"
+TextLabel.Text = "Skided  Hub"
 TextLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
 TextLabel.TextSize = 29.000
 TextLabel.TextTransparency = 0.030
@@ -14203,8 +14203,8 @@ local NotiFrame = Instance.new("Frame")
 		)
 	end  
 if  game.Players.LocalPlayer.Name == "JayceGuys019" or  game.Players.LocalPlayer.Name == "thanthanh878" then
-DiscordLib:Notification("Thông Báo" , "Chào Bạn, Mình Là Admin Bản skid Hub" , 6 ,11816162894)
-    DiscordLib:Notification("Thông Báo" , "Cảm Ơn Bạn Đã Sử Dụng skid Hub" , 8,11816162894)
+DiscordLib:Notification("Thông Báo" , "Chào Bạn, Mình Là Admin Bản Skid Hub" , 6 ,11816162894)
+    DiscordLib:Notification("Thông Báo" , "Cảm Ơn Bạn Đã Sử Dụng Skid Hub" , 8,11816162894)
             DiscordLib:Notification("Thông Báo" , "Chúc Bạn Có Nhiều Sức Khỏe" , 9 ,11816162894) 
 DiscordLib:Notification("Thông Báo" , "Năm Mới Vui Vẻ Và Hạnh Phúc" , 13 ,11816162894)
 end
